@@ -1,8 +1,8 @@
 fastapi
 uvicorn[standard]
-httpx             # асинхронный HTTP клиент для проксирования
+httpx               # асинхронный HTTP клиент для проксирования
 python-dotenv
 passlib[bcrypt]
-pyjwt               # работа с JWT
+pyjwt                # работа с JWT
 slowapi              # rate limiting готовый (или самописный)
 pydantic
